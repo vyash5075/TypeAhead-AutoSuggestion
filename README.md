@@ -1,1 +1,1 @@
-# TypeAhead-AutoSuggestion
+# Type Ahead-AutoSuggestion
